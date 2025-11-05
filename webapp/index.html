@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Indfødsretsprøven quiz</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Simple multiple-choice quiz from previous exams"/>
+</head>
+<body>
+  <main>
+    <h1>Indfødsretsprøven — øvelse</h1>
+    <div id="app">
+      <div id="loading">Laster spørgsmål...</div>
+      <div id="quiz" class="hidden">
+        <div id="progress">Spørgsmål <span id="answered">0</span>/<span id="total">0</span></div>
+        <div id="card">
+          <div id="question"></div>
+          <div id="options"></div>
+        </div>
+        <div id="controls">
+          <button id="next" class="hidden">Næste</button>
+        </div>
+      </div>
+      <div id="result" class="hidden">
+        <h2>Færdig!</h2>
+        <p>Du svarede korrekt på <span id="correctCount">0</span> ud af <span id="totalCount">0</span> spørgsmål.</p>
+        <p>Procent korrekt: <strong id="percent">0%</strong></p>
+        <button id="restart">Start forfra</button>
+      </div>
+    </div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
