@@ -3,3 +3,5 @@
 !/webapp
 !/webapp/
 !/webapp/**
+!/\.github
+!/\.github/**
