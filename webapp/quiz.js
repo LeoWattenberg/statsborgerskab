@@ -180,19 +180,27 @@ function answerQuestion(selectedLabel, question) {
     // Show feedback
     const feedbackContainer = document.getElementById('feedbackContainer');
     const feedbackContent = document.getElementById('feedbackContent');
+    const nextBtn = document.getElementById('nextBtn');
     
     if (isCorrect) {
         feedbackContent.className = 'feedback-content correct';
         feedbackContent.textContent = '✓ Rigtigt! Godt gået!';
+        feedbackContainer.style.display = 'block';
+        
+        // Auto-advance after 0.6 seconds
+        setTimeout(() => {
+            nextQuestion();
+        }, 600);
     } else {
         feedbackContent.className = 'feedback-content wrong';
         feedbackContent.innerHTML = `✗ Forkert! Det rigtige svar er <strong>${question.answer}.</strong>`;
+        feedbackContainer.style.display = 'block';
+        
+        // Show next button for incorrect answers
+        nextBtn.style.display = 'block';
+        nextBtn.removeEventListener('click', nextQuestion);
+        nextBtn.addEventListener('click', nextQuestion, { once: true });
     }
-    
-    feedbackContainer.style.display = 'block';
-    
-    // Show next button
-    document.getElementById('nextBtn').addEventListener('click', nextQuestion, { once: true });
 }
 
 function nextQuestion() {
