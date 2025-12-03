@@ -551,7 +551,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -563,7 +564,9 @@
       "B": "Nej"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "2025-05_43",
@@ -576,7 +579,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -588,7 +592,9 @@
       "B": "Nej"
     },
     "answer": "B",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "2025-05_45",
@@ -601,7 +607,8 @@
     },
     "answer": "A",
     "category": [
-      "Current"
+      "Current",
+      "danish values"
     ]
   },
   {
@@ -1599,7 +1606,9 @@
       "C": "Statsministeriet"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2020-11_37",
@@ -1611,7 +1620,9 @@
       "C": "Sofie Carsten Nielsen"
     },
     "answer": "C",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2020-11_38",
@@ -2132,7 +2143,9 @@
       "C": "Adskillelse af asylsøgende ægtefæller og samlevende par"
     },
     "answer": "C",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2021-06_37",
@@ -2186,7 +2199,9 @@
       "C": "COVID 19-restriktioner"
     },
     "answer": "C",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2021-11_1",
@@ -2655,7 +2670,8 @@
     },
     "answer": "A",
     "category": [
-      "Sports"
+      "Sports",
+      "Current"
     ]
   },
   {
@@ -2724,7 +2740,9 @@
       "B": "Nej"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2021-11_42",
@@ -2736,7 +2754,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -2749,7 +2768,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -2762,7 +2782,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -2775,7 +2796,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3196,7 +3218,9 @@
       "C": "Cirka 80 procent"
     },
     "answer": "C",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2022-06_37",
@@ -3224,7 +3248,8 @@
     },
     "answer": "C",
     "category": [
-      "Political"
+      "Political",
+      "Current"
     ]
   },
   {
@@ -3252,7 +3277,8 @@
     },
     "answer": "C",
     "category": [
-      "Legal"
+      "Legal",
+      "Current"
     ]
   },
   {
@@ -3265,7 +3291,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3277,7 +3304,9 @@
       "B": "Nej"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2022-06_43",
@@ -3289,7 +3318,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3302,7 +3332,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3315,7 +3346,8 @@
     },
     "answer": "A",
     "category": [
-      "Current"
+      "Current",
+      "danish values"
     ]
   },
   {
@@ -3706,7 +3738,9 @@
       "C": "Kattegat"
     },
     "answer": "B",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2022-11_39",
@@ -3746,7 +3780,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3759,7 +3794,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3772,7 +3808,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -3784,7 +3821,9 @@
       "B": "Nej"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2023-05_2",
@@ -4109,7 +4148,9 @@
       "C": "Pia Olsen Dyhr"
     },
     "answer": "C",
-    "category": []
+    "category": [
+      "Current"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2023-05_37",
@@ -4180,7 +4221,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -4193,7 +4235,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -4205,7 +4248,9 @@
       "B": "Nej"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2023-05_44",
@@ -4217,7 +4262,8 @@
     },
     "answer": "A",
     "category": [
-      "Current"
+      "Current",
+      "danish values"
     ]
   },
   {
@@ -4230,7 +4276,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -4625,7 +4672,8 @@
     "answer": "A",
     "category": [
       "Current",
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -4638,7 +4686,9 @@
       "C": "Både mænd og kvinder"
     },
     "answer": "C",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2023-11_43",
@@ -4650,7 +4700,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -4663,7 +4714,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -4675,7 +4727,9 @@
       "B": "Domstolene"
     },
     "answer": "B",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2024-05_2",
@@ -5073,7 +5127,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -5086,7 +5141,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -5100,7 +5156,8 @@
     },
     "answer": "C",
     "category": [
-      "Current"
+      "Current",
+      "danish values"
     ]
   },
   {
@@ -5517,7 +5574,9 @@
       "B": "Nej"
     },
     "answer": "A",
-    "category": []
+    "category": [
+      "danish values"
+    ]
   },
   {
     "id": "indfoedsretsproeven-2024-11_42",
@@ -5529,7 +5588,8 @@
     },
     "answer": "A",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -5542,7 +5602,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -5555,7 +5616,8 @@
     },
     "answer": "B",
     "category": [
-      "Legal"
+      "Legal",
+      "danish values"
     ]
   },
   {
@@ -5569,7 +5631,8 @@
     },
     "answer": "A",
     "category": [
-      "Current"
+      "Current",
+      "danish values"
     ]
   }
 ]
