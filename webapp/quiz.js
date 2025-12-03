@@ -43,7 +43,7 @@ function initializeCategoryScreen() {
     });
     
     // Update category counts in UI
-    const categories = ['Legal', 'Historical', 'Current', 'Political', 'Cultural', 'Sports'];
+    const categories = ['Legal', 'Historical', 'Current', 'Political', 'Cultural', 'Sports', 'danish values'];
     categories.forEach(cat => {
         const countEl = document.querySelector(`[data-category="${cat}"]`);
         if (countEl) {
@@ -57,7 +57,7 @@ function initializeCategoryScreen() {
     });
     
     // Initialize selected categories
-    selectedCategories = new Set(['Legal', 'Historical', 'Current']);
+    selectedCategories = new Set(['Legal', 'Historical', 'danish values']);
     updateCategorySelection();
     
     // Start button listener
