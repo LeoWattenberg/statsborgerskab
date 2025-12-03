@@ -5634,5 +5634,624 @@
       "Current",
       "danish values"
     ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_1",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken politisk bevægelse var rødstrømpebevægelsen en del af?",
+    "options": {
+      "A": "Arbejderbevægelsen i 30'erne",
+      "B": "Kvindebevægelsen i 70'erne",
+      "C": "Miljøbevægelsen i 90'erne"
+    },
+    "answer": "B",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_2",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Var Danmark besat af tyske tropper under 1. verdenskrig (1914-18)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "B",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_3",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Over hvilket farvand åbnede en bro i 1935?",
+    "options": {
+      "A": "Øresund",
+      "B": "Storebælt",
+      "C": "Lillebælt"
+    },
+    "answer": "C",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_4",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvornår blev det ved en folkeafstemning i Island besluttet at oprette en republik, der var uafhængig af Danmark?",
+    "options": {
+      "A": "1904",
+      "B": "1944",
+      "C": "1984"
+    },
+    "answer": "B",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_5",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket parti tilhørte Helle Thorning-Schmidt, da hun var statsminister i perioden 2011-15?",
+    "options": {
+      "A": "Socialdemokraterne",
+      "B": "Radikale Venstre",
+      "C": "Venstre"
+    },
+    "answer": "A",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_6",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "A",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_7",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvor høj er valgdeltagelsen normalt til folketingsvalg?",
+    "options": {
+      "A": "Cirka 55 procent",
+      "B": "Cirka 70 procent",
+      "C": "Cirka 85 procent"
+    },
+    "answer": "C",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_8",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvem er den lovgivende, den udøvende og den dømmende magt fordelt mellem?",
+    "options": {
+      "A": "Folketinget, regeringen og domstolene",
+      "B": "Folketinget, kommunerne og domstolene",
+      "C": "Regeringen, regionerne og kommunerne"
+    },
+    "answer": "A",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_9",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad er Sofie Gråbøl (f. 1968) særligt kendt for?",
+    "options": {
+      "A": "Hun er forfatter",
+      "B": "Hun er skuespiller",
+      "C": "Hun er kunstmaler"
+    },
+    "answer": "B",
+    "category": [
+      "Cultural"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_10",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad hed forsangeren i bandet Gasolin?",
+    "options": {
+      "A": "Steffen Brandt",
+      "B": "Michael Bundesen",
+      "C": "5 ·  Indfødsretsprøven ·  26. november 2025, kl. 13.00-13.45"
+    },
+    "answer": "C",
+    "category": [
+      "Cultural"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_11",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken af følgende fortællinger er skrevet af H.C. Andersen?",
+    "options": {
+      "A": "Hans og Grete",
+      "B": "Skønheden og udyret",
+      "C": "Den grimme ælling"
+    },
+    "answer": "C",
+    "category": [
+      "Cultural"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_12",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvem er kendt for at have skrevet manuskriptet til tv-serien Matador?",
+    "options": {
+      "A": "Anders Thomas Jensen",
+      "B": "Lise Nørgaard",
+      "C": "Nils Malmros"
+    },
+    "answer": "B",
+    "category": [
+      "Cultural"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_13",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket af følgende årtier var især kendetegnet ved høj vækst, fuld beskæftigelse og stor stigning i produktionen?",
+    "options": {
+      "A": "1960’erne",
+      "B": "1970’erne",
+      "C": "1980’erne"
+    },
+    "answer": "A",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_14",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken af følgende virksomheder er kendt for at producere vindmøller? A   : Novo Nordisk",
+    "options": {
+      "B": "Mærsk",
+      "C": "Vestas"
+    },
+    "answer": "C",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_15",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad er den kriminelle lavalder i Danmark?",
+    "options": {
+      "A": "12 år",
+      "B": "15 år",
+      "C": "6 ·  Indfødsretsprøven ·  26. november 2025, kl. 13.00-13.45"
+    },
+    "answer": "B",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_16",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken ændring trådte i kraft i 2025 angående den fri abort?",
+    "options": {
+      "A": "Grænsen for fri abort blev hævet fra 12 til 18 uger",
+      "B": "Grænsen for fri abort blev sænket fra 12 til 9 uger"
+    },
+    "answer": "A",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_17",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad indebar den seneste ændring af grundloven i 1953 blandt andet?",
+    "options": {
+      "A": "At valgretsalderen blev sænket til 18 år",
+      "B": "At kvinder fik mulighed for at arve tronen",
+      "C": "At Danmark blev medlem af FN"
+    },
+    "answer": "B",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_18",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket af følgende partier er ældst?",
+    "options": {
+      "A": "Radikale Venstre",
+      "B": "SF",
+      "C": "Enhedslisten"
+    },
+    "answer": "A",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_19",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket land blev Dansk Vestindien solgt til i 1917?",
+    "options": {
+      "A": "Frankrig",
+      "B": "Storbritannien",
+      "C": "USA"
+    },
+    "answer": "C",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_20",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Fik kvinder valgret til Folketinget med grundloven i 1849?",
+    "options": {
+      "A": "Ja",
+      "B": "7 ·  Indfødsretsprøven ·  26. november 2025, kl. 13.00-13.45"
+    },
+    "answer": "B",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_21",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket symbol indgår i Grønlands flag?",
+    "options": {
+      "A": "Et kors",
+      "B": "En trekant",
+      "C": "En cirkel"
+    },
+    "answer": "C",
+    "category": [
+      "Cultural"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_22",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Gælder grundloven på Færøerne og i Grønland?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "A",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_23",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken tidligere dansk statsminister var generalsekretær for NATO i 2009-2014?",
+    "options": {
+      "A": "Poul Nyrup Rasmussen",
+      "B": "Anders Fogh Rasmussen",
+      "C": "Lars Løkke Rasmussen"
+    },
+    "answer": "B",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_24",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket kontinent modtager den største andel af Danmarks udviklingsbistand?",
+    "options": {
+      "A": "Asien",
+      "B": "Sydamerika",
+      "C": "Afrika"
+    },
+    "answer": "C",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_25",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Er Europa-Parlamentets medlemmer direkte valgt af befolkningerne i EU’s medlemslande?",
+    "options": {
+      "A": "Ja",
+      "B": "8 ·  Indfødsretsprøven ·  26. november 2025, kl. 13.00-13.45"
+    },
+    "answer": "A",
+    "category": [
+      "Political"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_26",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad handler Paris-aftalen, som FN vedtog i 2015, især om?",
+    "options": {
+      "A": "Klima",
+      "B": "Forsvar",
+      "C": "Kriminalitet"
+    },
+    "answer": "A",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_27",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Har Danmark forbehold for EU’s forsvars- og sikkerhedspolitik?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "B",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_28",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket af følgende lande blev erobret af Svend Tveskæg i 1000-tallet?",
+    "options": {
+      "A": "Frankrig",
+      "B": "Polen",
+      "C": "England"
+    },
+    "answer": "C",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_29",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad hedder den ældste by i Danmark?",
+    "options": {
+      "A": "Ribe",
+      "B": "Esbjerg",
+      "C": "Frederikshavn"
+    },
+    "answer": "A",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_30",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad indebar stavnsbåndet i 1700-tallet?",
+    "options": {
+      "A": "At kongen havde eneret på at handle med udlandet",
+      "B": "At bønderne havde begrænset ret til at flytte",
+      "C": "9 ·  Indfødsretsprøven ·  26. november 2025, kl. 13.00-13.45"
+    },
+    "answer": "B",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_31",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken af følgende åbnede i Danmark i 1840'erne?",
+    "options": {
+      "A": "Den første lufthavn",
+      "B": "Den første motorvej",
+      "C": "Den første jernbane"
+    },
+    "answer": "C",
+    "category": [
+      "Historical"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_32",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "På hvilket slot i København bor kongen og hans familie en del af året?",
+    "options": {
+      "A": "Christiansborg",
+      "B": "Rosenborg",
+      "C": "Amalienborg"
+    },
+    "answer": "C",
+    "category": [
+      "Cultural"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_33",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket af følgende områder har kommunerne ansvaret for at drive?",
+    "options": {
+      "A": "Folkeskolerne",
+      "B": "Domstolene",
+      "C": "Sygehusene"
+    },
+    "answer": "A",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_34",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilke myndigheder udskriver skatter?",
+    "options": {
+      "A": "Staten og regionerne",
+      "B": "Staten og kommunerne",
+      "C": "Regionerne og kommunerne"
+    },
+    "answer": "B",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_35",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket år fik personer af samme køn ret til at indgå et registreret partnerskab?",
+    "options": {
+      "A": "1955",
+      "B": "1972",
+      "C": "10 ·  Indfødsretsprøven ·  26. november 2025, kl. 13.00-13.45"
+    },
+    "answer": "C",
+    "category": [
+      "Legal"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_36",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvad har Danmark formandskabet for mellem 1. juli og 31. december 2025?",
+    "options": {
+      "A": "FN’s Sikkerhedsråd",
+      "B": "Rådet for Den Europæiske Union",
+      "C": "Nordisk Ministerråd"
+    },
+    "answer": "B",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_37",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilket parti fik flest stemmer på landsplan ved kommunalvalget den 18. november 2025?",
+    "options": {
+      "A": "Socialdemokratiet",
+      "B": "Venstre",
+      "C": "Det Konservative Folkeparti"
+    },
+    "answer": "A",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_38",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvilken dansk cykelrytter vandt Vuelta a España i 2025?",
+    "options": {
+      "A": "Magnus Cort",
+      "B": "Mattias Skjelmose",
+      "C": "Jonas Vingegaard"
+    },
+    "answer": "C",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_39",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "På hvilke af følgende dagligvarer er priserne i butikkerne steget mest det seneste år (fra oktober 2024 til oktober 2025 ifølge Danmarks Statistiks Forbrugerprisindeks)?",
+    "options": {
+      "A": "Friske grøntsager",
+      "B": "Mel og gryn",
+      "C": "Okse- og kalvekød"
+    },
+    "answer": "C",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_40",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvorfor blev Københavns Lufthavn lukket om aftenen den 22. september 2025?",
+    "options": {
+      "A": "Medarbejderne i lufthavnen strejkede",
+      "B": "Der var rapporteret droner ved lufthavnen",
+      "C": "Spørgsmål 41-45 angår danske værdier"
+    },
+    "answer": "B",
+    "category": [
+      "Current"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_41",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Kan man ifølge dansk lov blive straffet med fængsel i 16 år, hvis man med vold eller trussel om vold forsøger at forhindre Folketinget i at træffe en beslutning?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "A",
+    "category": [
+      "danish values"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_42",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Er der i dansk lov en regel om, at en arbejdsgiver skal give kvinder og mænd lige løn for samme arbejde?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "A",
+    "category": [
+      "danish values"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_43",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Er det som udgangspunkt strafbart at udtale sig kritisk om andres religion?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "answer": "B",
+    "category": [
+      "danish values"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_44",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvor stor en andel af borgerne i Danmark synes, at det er uacceptabelt, at en mand indimellem slår sin kone/kæreste (ifølge Europabarometer, Kønsstereotyper – vold mod kvinder, 2024)?",
+    "options": {
+      "A": "37 procent",
+      "B": "65 procent",
+      "C": "94 procent"
+    },
+    "answer": "C",
+    "category": [
+      "danish values"
+    ]
+  },
+  {
+    "id": "indfoedsretsproeven-2025-11_45",
+    "exam": "indfoedsretsproeven-2025-11",
+    "question": "Hvor stor en andel af borgerne i Danmark har tillid til, at politiet vil hjælpe dem, hvis de har brug for det (ifølge Justitsministeriets Tryghedsundersøgelse 2023)?",
+    "options": {
+      "A": "Cirka 35 procent",
+      "B": "Cirka 60 procent",
+      "C": "Cirka 85 procent"
+    },
+    "answer": "C",
+    "category": [
+      "danish values"
+    ]
   }
 ]
