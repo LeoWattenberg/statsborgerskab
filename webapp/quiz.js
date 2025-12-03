@@ -5,6 +5,7 @@ let currentQuestionIndex = 0;
 let correctAnswers = 0;
 let wrongAnswers = 0;
 let selectedCategories = new Set(['Legal', 'Historical', 'Current']);
+let totalSelectedQuestions = 0;
 
 // Load questions from the JSON data
 async function loadQuestions() {
@@ -86,6 +87,9 @@ function startQuiz() {
         return q.category && q.category.some(cat => selectedCategories.has(cat));
     });
     
+    // Store total selected questions count
+    totalSelectedQuestions = filteredQuestions.length;
+    
     // Shuffle and set quiz questions
     quizQuestions = shuffleArray([...filteredQuestions]);
     currentQuestionIndex = 0;
@@ -106,11 +110,10 @@ function displayQuestion() {
     const question = quizQuestions[currentQuestionIndex];
     
     // Update progress
-    const totalQuestions = currentQuestionIndex + wrongAnswers + 1;
     document.getElementById('currentQuestion').textContent = currentQuestionIndex + 1;
-    document.getElementById('totalQuestions').textContent = totalQuestions;
+    document.getElementById('totalQuestions').textContent = totalSelectedQuestions;
     
-    const progressPercent = ((currentQuestionIndex) / totalQuestions) * 100;
+    const progressPercent = ((currentQuestionIndex) / totalSelectedQuestions) * 100;
     document.getElementById('progressFill').style.width = Math.max(progressPercent, 5) + '%';
     
     // Update scores
