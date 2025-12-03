@@ -1178,22 +1178,6 @@
     ]
   },
   {
-    "id": "indfoedsretsproeven-2020-06_38",
-    "exam": "indfoedsretsproeven-2020-06",
-    "number": 38,
-    "question": "Hvilket politisk parti er i regering?",
-    "options": {
-      "A": "Venstre",
-      "B": "Socialdemokratiet",
-      "C": "Dansk Folkeparti"
-    },
-    "answer": "B",
-    "category": [
-      "Political",
-      "Legal"
-    ]
-  },
-  {
     "id": "indfoedsretsproeven-2020-06_39",
     "exam": "indfoedsretsproeven-2020-06",
     "number": 39,
