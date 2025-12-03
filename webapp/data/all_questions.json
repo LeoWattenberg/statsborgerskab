@@ -899,18 +899,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2020-06_32",
-    "exam": "indfoedsretsproeven-2020-06",
-    "number": 32,
-    "question": "Hvornår levede filosoffen Søren Kierkegaard?",
-    "options": {
-      "A": "I 1700-tallet",
-      "B": "I 1800-tallet",
-      "C": "I 1900-tallet"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2020-06_33",
     "exam": "indfoedsretsproeven-2020-06",
     "number": 33,
@@ -1374,18 +1362,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2020-11_32",
-    "exam": "indfoedsretsproeven-2020-11",
-    "number": 32,
-    "question": "Hvilket af følgende politiske partier er ældst?",
-    "options": {
-      "A": "Det Konservative Folkeparti",
-      "B": "Socialistisk Folkeparti",
-      "C": "Dansk Folkeparti"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2020-11_33",
     "exam": "indfoedsretsproeven-2020-11",
     "number": 33,
@@ -1706,18 +1682,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2021-06_20",
-    "exam": "indfoedsretsproeven-2021-06",
-    "number": 20,
-    "question": "Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?",
-    "options": {
-      "A": "Grundlovsændringen i 1866",
-      "B": "Grundlovsændringen i 1915",
-      "C": "Grundlovsændringen i 1953"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2021-06_21",
     "exam": "indfoedsretsproeven-2021-06",
     "number": 21,
@@ -1968,17 +1932,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2021-11_2",
-    "exam": "indfoedsretsproeven-2021-11",
-    "number": 2,
-    "question": "Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2021-11_3",
     "exam": "indfoedsretsproeven-2021-11",
     "number": 3,
@@ -2129,18 +2082,6 @@
     "options": {
       "A": "Ja",
       "B": "Nej"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2021-11_16",
-    "exam": "indfoedsretsproeven-2021-11",
-    "number": 16,
-    "question": "Hvad er den kriminelle lavalder i Danmark?",
-    "options": {
-      "A": "12 år",
-      "B": "15 år",
-      "C": "18 år"
     },
     "answer": "B"
   },
@@ -2640,18 +2581,6 @@
     "answer": "C"
   },
   {
-    "id": "indfoedsretsproeven-2022-06_14",
-    "exam": "indfoedsretsproeven-2022-06",
-    "number": 14,
-    "question": "Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?",
-    "options": {
-      "A": "Grundlovsændringen i 1866",
-      "B": "Grundlovsændringen i 1915",
-      "C": "Grundlovsændringen i 1953"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2022-06_15",
     "exam": "indfoedsretsproeven-2022-06",
     "number": 15,
@@ -2662,18 +2591,6 @@
       "C": "At samarbejde om forebyggelse af grænseoverskridende kriminalitet"
     },
     "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-06_16",
-    "exam": "indfoedsretsproeven-2022-06",
-    "number": 16,
-    "question": "Hvilket parti tilhørte Poul Schlüter, som var statsminister i perioden 1982-93?",
-    "options": {
-      "A": "Socialdemokratiet",
-      "B": "Radikale Venstre",
-      "C": "Det Konservative Folkeparti"
-    },
-    "answer": "C"
   },
   {
     "id": "indfoedsretsproeven-2022-06_17",
@@ -2687,18 +2604,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2022-06_18",
-    "exam": "indfoedsretsproeven-2022-06",
-    "number": 18,
-    "question": "Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?",
-    "options": {
-      "A": "Stat og kommuner",
-      "B": "Regering og embedsmænd",
-      "C": "Fagforeninger og arbejdsgiverorganisationer"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2022-06_19",
     "exam": "indfoedsretsproeven-2022-06",
     "number": 19,
@@ -2709,18 +2614,6 @@
       "C": "Moren"
     },
     "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-06_20",
-    "exam": "indfoedsretsproeven-2022-06",
-    "number": 20,
-    "question": "Hvor mange kommuner er der i Danmark?",
-    "options": {
-      "A": "38",
-      "B": "68",
-      "C": "98"
-    },
-    "answer": "C"
   },
   {
     "id": "indfoedsretsproeven-2022-06_21",
@@ -3014,18 +2907,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2022-11_1",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 1,
-    "question": "Hvilken rettighed er sikret i grundloven?",
-    "options": {
-      "A": "Retten til at holde ferie",
-      "B": "Retten til at eje jagtvåben",
-      "C": "Retten til at ytre sig"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2022-11_2",
     "exam": "indfoedsretsproeven-2022-11",
     "number": 2,
@@ -3133,18 +3014,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2022-11_11",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 11,
-    "question": "Hvilken gruppe borgere blev i tusindtal hjulpet med at flygte fra Danmark til Sverige i oktober 1943?",
-    "options": {
-      "A": "Danske kommunister",
-      "B": "Danske soldater",
-      "C": "Danske jøder"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2022-11_12",
     "exam": "indfoedsretsproeven-2022-11",
     "number": 12,
@@ -3155,18 +3024,6 @@
       "C": "Folketingets formand"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-11_13",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 13,
-    "question": "Hvem er den lovgivende, den udøvende og den dømmende magt fordelt mellem?",
-    "options": {
-      "A": "Folketinget, regeringen og domstolene",
-      "B": "Folketinget, kommunerne og domstolene",
-      "C": "Regeringen, regionerne og kommunerne"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2022-11_14",
@@ -3264,41 +3121,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2022-11_22",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 22,
-    "question": "Hvornår gjorde en større gruppe af unge oprør mod samfundets traditionelle normer, så det blandt andet blev mere accepteret at få børn uden at være gift?",
-    "options": {
-      "A": "I slutningen af 1920’erne",
-      "B": "I slutningen af 1940’erne",
-      "C": "I slutningen af 1960’erne"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-11_23",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 23,
-    "question": "Er Grønland og Færøerne en del af EU?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-11_24",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 24,
-    "question": "Hvilken historisk begivenhed fandt sted i 1864?",
-    "options": {
-      "A": "Danmark tabte Den 2. Slesvigske Krig",
-      "B": "Danmark fik sin første socialdemokratiske statsminister",
-      "C": "Danske kvinder fik valgret til Folketinget"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2022-11_25",
     "exam": "indfoedsretsproeven-2022-11",
     "number": 25,
@@ -3311,17 +3133,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2022-11_26",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 26,
-    "question": "Kan den samme person være statsminister i mere end to valgperioder?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2022-11_27",
     "exam": "indfoedsretsproeven-2022-11",
     "number": 27,
@@ -3330,18 +3141,6 @@
       "A": "1809",
       "B": "1849",
       "C": "1889"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-11_28",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 28,
-    "question": "Hvor ofte afholdes der kommunalvalg?",
-    "options": {
-      "A": "Hvert tredje år",
-      "B": "Hvert fjerde år",
-      "C": "Hvert femte år"
     },
     "answer": "B"
   },
@@ -3366,18 +3165,6 @@
       "A": "Margrethe Vestager",
       "B": "Helle Thorning-Schmidt",
       "C": "Mette Frederiksen"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2022-11_31",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 31,
-    "question": "Hvilken befolkningsgruppe fik begrænset deres rettigheder med indførelsen af stavnsbåndet i 1733?",
-    "options": {
-      "A": "Borgerskabet",
-      "B": "Bønderne",
-      "C": "Adelen"
     },
     "answer": "B"
   },
@@ -3534,29 +3321,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2022-11_45",
-    "exam": "indfoedsretsproeven-2022-11",
-    "number": 45,
-    "question": "Kan man ifølge dansk lov kræve, at svømmehaller har separate åbningstider for kvinder og mænd?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_1",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 1,
-    "question": "Hvilket af følgende områder har kommunerne ansvaret for driften af?",
-    "options": {
-      "A": "Domstole",
-      "B": "Vuggestuer",
-      "C": "Sygehuse"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2023-05_2",
     "exam": "indfoedsretsproeven-2023-05",
     "number": 2,
@@ -3603,18 +3367,6 @@
       "C": "Ministre fra medlemsstaternes regeringer"
     },
     "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_6",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 6,
-    "question": "Hvad hedder Grønlands største by?",
-    "options": {
-      "A": "Nuuk",
-      "B": "Tórshavn",
-      "C": "Reykjavik"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-05_7",
@@ -3700,18 +3452,6 @@
     "answer": "C"
   },
   {
-    "id": "indfoedsretsproeven-2023-05_14",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 14,
-    "question": "Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?",
-    "options": {
-      "A": "Grundloven",
-      "B": "Valgretsalderen",
-      "C": "Danmarks forhold til EU"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2023-05_15",
     "exam": "indfoedsretsproeven-2023-05",
     "number": 15,
@@ -3721,18 +3461,6 @@
       "B": "Det er faldet"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_16",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 16,
-    "question": "Hvem var Danmarks første socialdemokratiske statsminister?",
-    "options": {
-      "A": "Thorvald Stauning",
-      "B": "Jens Otto Krag",
-      "C": "Anker Jørgensen"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-05_17",
@@ -3759,18 +3487,6 @@
     "answer": "C"
   },
   {
-    "id": "indfoedsretsproeven-2023-05_19",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 19,
-    "question": "Hvilket symbol indgår i Færøernes flag?",
-    "options": {
-      "A": "En cirkel",
-      "B": "En stjerne",
-      "C": "Et kors"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2023-05_20",
     "exam": "indfoedsretsproeven-2023-05",
     "number": 20,
@@ -3780,30 +3496,6 @@
       "B": "Kongen fik mere magt over kirken"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_21",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 21,
-    "question": "Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?",
-    "options": {
-      "A": "Stat og kommuner",
-      "B": "Regering og embedsmænd",
-      "C": "Fagforeninger og arbejdsgiverorganisationer"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_22",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 22,
-    "question": "Hvad er den kriminelle lavalder i Danmark?",
-    "options": {
-      "A": "15 år",
-      "B": "18 år",
-      "C": "20 år"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-05_23",
@@ -3818,17 +3510,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2023-05_24",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 24,
-    "question": "Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2023-05_25",
     "exam": "indfoedsretsproeven-2023-05",
     "number": 25,
@@ -3836,30 +3517,6 @@
     "options": {
       "A": "Ja",
       "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_26",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 26,
-    "question": "Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?",
-    "options": {
-      "A": "Spanien",
-      "B": "Polen",
-      "C": "Frankrig"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_27",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 27,
-    "question": "Hvor højt over havets overflade ligger Danmarks højeste naturlige punkt?",
-    "options": {
-      "A": "Cirka 170 meter",
-      "B": "Cirka 470 meter",
-      "C": "Cirka 770 meter"
     },
     "answer": "A"
   },
@@ -3886,17 +3543,6 @@
       "C": "Miljøbevægelsen i 1990’erne"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_30",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 30,
-    "question": "Kan statsministeren udpege en minister, der ikke er medlem af Folketinget?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-05_31",
@@ -3943,18 +3589,6 @@
       "B": "Nej"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-05_35",
-    "exam": "indfoedsretsproeven-2023-05",
-    "number": 35,
-    "question": "Hvor længe kan politiet tilbageholde en anholdt person med lovligt ophold i Danmark, før personen skal stilles for en dommer?",
-    "options": {
-      "A": "I op til 1 døgn",
-      "B": "I op til 3 døgn",
-      "C": "I op til 1 uge"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-05_36",
@@ -4096,17 +3730,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2023-11_3",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 3,
-    "question": "Kan et ægtepar ifølge dansk lov blive skilt, selvom den ene part ikke ønsker det?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2023-11_4",
     "exam": "indfoedsretsproeven-2023-11",
     "number": 4,
@@ -4117,18 +3740,6 @@
       "C": "Karen Blixen"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_5",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 5,
-    "question": "Hvor længe varede Danmarks officielle militære modstand, da Tyskland angreb Danmark den 9. april 1940?",
-    "options": {
-      "A": "Mindre end en dag",
-      "B": "Mellem en og to uger",
-      "C": "Cirka halvanden måned"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-11_6",
@@ -4190,18 +3801,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2023-11_11",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 11,
-    "question": "Hvor mange indbyggere har Færøerne?",
-    "options": {
-      "A": "Cirka 50.000",
-      "B": "Cirka 150.000",
-      "C": "Cirka 250.000"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2023-11_12",
     "exam": "indfoedsretsproeven-2023-11",
     "number": 12,
@@ -4223,18 +3822,6 @@
       "C": "Afghanistan"
     },
     "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_14",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 14,
-    "question": "Hvordan fejrer man traditionelt sankthans i Danmark?",
-    "options": {
-      "A": "Man samles om aftenen og tænder bål",
-      "B": "Man holder fest og giver hinanden gaver",
-      "C": "Man klæder sig ud og slår katten af tønden"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2023-11_15",
@@ -4261,18 +3848,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2023-11_17",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 17,
-    "question": "Hvilket af følgende partier har aldrig været med i en regering?",
-    "options": {
-      "A": "Radikale Venstre",
-      "B": "Enhedslisten",
-      "C": "Socialistisk Folkeparti"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2023-11_18",
     "exam": "indfoedsretsproeven-2023-11",
     "number": 18,
@@ -4283,17 +3858,6 @@
       "C": "Kongen"
     },
     "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_19",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 19,
-    "question": "Hvad karakteriserede blandt andet 1960’erne i Danmark?",
-    "options": {
-      "A": "Oliekrise og høj arbejdsløshed",
-      "B": "Høj økonomisk vækst med stor stigning i produktion og forbrug"
-    },
-    "answer": "B"
   },
   {
     "id": "indfoedsretsproeven-2023-11_20",
@@ -4308,18 +3872,6 @@
     "answer": "C"
   },
   {
-    "id": "indfoedsretsproeven-2023-11_21",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 21,
-    "question": "Hvor ligger flest danske konger og dronninger begravet?",
-    "options": {
-      "A": "Viborg Domkirke",
-      "B": "Roskilde Domkirke",
-      "C": "Ribe Domkirke"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2023-11_22",
     "exam": "indfoedsretsproeven-2023-11",
     "number": 22,
@@ -4328,18 +3880,6 @@
       "A": "Pernille Vermund",
       "B": "Inger Støjberg",
       "C": "Pia Kjærsgaard"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_23",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 23,
-    "question": "Hvad var Carl Nielsen (1865-1931) særligt kendt for?",
-    "options": {
-      "A": "Han var maler",
-      "B": "Han var arkitekt",
-      "C": "Han var komponist"
     },
     "answer": "C"
   },
@@ -4390,18 +3930,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2023-11_28",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 28,
-    "question": "Hvilket af følgende partier er nyest?",
-    "options": {
-      "A": "Liberal Alliance",
-      "B": "Det Konservative Folkeparti",
-      "C": "Enhedslisten"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2023-11_29",
     "exam": "indfoedsretsproeven-2023-11",
     "number": 29,
@@ -4412,18 +3940,6 @@
       "C": "Cirka 75 procent"
     },
     "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_30",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 30,
-    "question": "Hvilken instans har som sin primære opgave at kontrollere offentlige myndigheders sagsbehandling?",
-    "options": {
-      "A": "Etisk Råd",
-      "B": "Folketingets Ombudsmand",
-      "C": "Pressenævnet"
-    },
-    "answer": "B"
   },
   {
     "id": "indfoedsretsproeven-2023-11_31",
@@ -4459,30 +3975,6 @@
       "B": "Nej"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_34",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 34,
-    "question": "Hvad er der sket med folkepensionsalderen siden 2018?",
-    "options": {
-      "A": "Den er blevet højere",
-      "B": "Den er uændret",
-      "C": "Den er blevet lavere"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2023-11_35",
-    "exam": "indfoedsretsproeven-2023-11",
-    "number": 35,
-    "question": "Hvilken international organisation blev Danmark medlem af i 1945?",
-    "options": {
-      "A": "EU",
-      "B": "WTO",
-      "C": "FN"
-    },
-    "answer": "C"
   },
   {
     "id": "indfoedsretsproeven-2023-11_36",
@@ -4601,18 +4093,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2024-05_1",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 1,
-    "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
-    "options": {
-      "A": "1849",
-      "B": "1864",
-      "C": "1899"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2024-05_2",
     "exam": "indfoedsretsproeven-2024-05",
     "number": 2,
@@ -4648,18 +4128,6 @@
     "answer": "C"
   },
   {
-    "id": "indfoedsretsproeven-2024-05_5",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 5,
-    "question": "Hvem er den lovgivende, den udøvende og den dømmende magt fordelt mellem?",
-    "options": {
-      "A": "Folketinget, regeringen og domstolene",
-      "B": "Folketinget, kommunerne og domstolene",
-      "C": "Regeringen, regionerne og kommunerne"
-    },
-    "answer": "A"
-  },
-  {
     "id": "indfoedsretsproeven-2024-05_6",
     "exam": "indfoedsretsproeven-2024-05",
     "number": 6,
@@ -4670,28 +4138,6 @@
       "C": "Socialdemokratiet, Venstre og Moderaterne"
     },
     "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_7",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 7,
-    "question": "Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?",
-    "options": {
-      "A": "Mindretalsregering",
-      "B": "Flertalsregering"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_8",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 8,
-    "question": "Kan statsministeren udpege en minister, der ikke er medlem af Folketinget?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2024-05_9",
@@ -4740,30 +4186,6 @@
       "C": "Bølgeenergi"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_13",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 13,
-    "question": "Hvilket af følgende lande har Danmark størst samhandel (import og eksport) med?",
-    "options": {
-      "A": "Kina",
-      "B": "Storbritannien",
-      "C": "Tyskland"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_14",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 14,
-    "question": "Hvilket af følgende områder har staten ansvaret for driften af?",
-    "options": {
-      "A": "Domstole",
-      "B": "Folkeskoler",
-      "C": "Sygehuse"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2024-05_15",
@@ -4822,18 +4244,6 @@
       "A": "Lollands sydkyst",
       "B": "Sjællands østkyst",
       "C": "Jyllands vestkyst"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_20",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 20,
-    "question": "Hvornår blev Nordslesvig, i dag kaldet Sønderjylland, genforenet med Danmark?",
-    "options": {
-      "A": "1864",
-      "B": "1901",
-      "C": "1920"
     },
     "answer": "C"
   },
@@ -4921,18 +4331,6 @@
     "answer": "C"
   },
   {
-    "id": "indfoedsretsproeven-2024-05_28",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 28,
-    "question": "Hvilken international organisation har vedtaget 17 såkaldte verdensmål om for eksempel ligestilling, klima og fattigdom?",
-    "options": {
-      "A": "NATO",
-      "B": "EU",
-      "C": "FN"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2024-05_29",
     "exam": "indfoedsretsproeven-2024-05",
     "number": 29,
@@ -4943,30 +4341,6 @@
       "C": "Libyen"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_30",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 30,
-    "question": "Hvor stor en andel af Danmarks befolkning er medlem af folkekirken?",
-    "options": {
-      "A": "Cirka 40 procent",
-      "B": "Cirka 55 procent",
-      "C": "Cirka 70 procent"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_31",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 31,
-    "question": "Hvad er den kriminelle lavalder i Danmark?",
-    "options": {
-      "A": "15 år",
-      "B": "16 år",
-      "C": "18 år"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2024-05_32",
@@ -4981,18 +4355,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2024-05_33",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 33,
-    "question": "Hvor gammel skal man mindst være for at købe cigaretter i Danmark?",
-    "options": {
-      "A": "16 år",
-      "B": "18 år",
-      "C": "20 år"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2024-05_34",
     "exam": "indfoedsretsproeven-2024-05",
     "number": 34,
@@ -5003,18 +4365,6 @@
       "C": "2007"
     },
     "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_35",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 35,
-    "question": "Hvilket parti stemte landmænd typisk på i midten af 1900-tallet?",
-    "options": {
-      "A": "Dansk Folkeparti",
-      "B": "Det Konservative Folkeparti",
-      "C": "Venstre"
-    },
-    "answer": "C"
   },
   {
     "id": "indfoedsretsproeven-2024-05_36",
@@ -5088,18 +4438,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2024-05_42",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 42,
-    "question": "Hvad er den seksuelle lavalder i Danmark?",
-    "options": {
-      "A": "13 år",
-      "B": "15 år",
-      "C": "18 år"
-    },
-    "answer": "B"
-  },
-  {
     "id": "indfoedsretsproeven-2024-05_43",
     "exam": "indfoedsretsproeven-2024-05",
     "number": 43,
@@ -5109,17 +4447,6 @@
       "B": "Nej"
     },
     "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-05_44",
-    "exam": "indfoedsretsproeven-2024-05",
-    "number": 44,
-    "question": "Kan man komme i fængsel for at sende sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare (genopdragelsesrejse)?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
   },
   {
     "id": "indfoedsretsproeven-2024-05_45",
@@ -5278,30 +4605,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2024-11_13",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 13,
-    "question": "Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1994?",
-    "options": {
-      "A": "Den er blevet længere",
-      "B": "Den er uændret",
-      "C": "Den er blevet kortere"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_14",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 14,
-    "question": "Hvor gammel skal man mindst være for at købe stærk spiritus?",
-    "options": {
-      "A": "14 år",
-      "B": "16 år",
-      "C": "18 år"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2024-11_15",
     "exam": "indfoedsretsproeven-2024-11",
     "number": 15,
@@ -5311,18 +4614,6 @@
       "B": "Det er faldet"
     },
     "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_16",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 16,
-    "question": "Hvor stor en andel af Danmarks befolkning udgøres af indvandrere og deres efterkommere?",
-    "options": {
-      "A": "Cirka 5 procent",
-      "B": "Cirka 15 procent",
-      "C": "Cirka 25 procent"
-    },
-    "answer": "B"
   },
   {
     "id": "indfoedsretsproeven-2024-11_17",
@@ -5357,18 +4648,6 @@
       "A": "Bornholm",
       "B": "Samsø",
       "C": "Langeland"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_20",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 20,
-    "question": "Hvilket af følgende områder har staten ansvaret for driften af?",
-    "options": {
-      "A": "Politiet",
-      "B": "Børnehaver",
-      "C": "Sygehuse"
     },
     "answer": "A"
   },
@@ -5409,18 +4688,6 @@
     "answer": "B"
   },
   {
-    "id": "indfoedsretsproeven-2024-11_24",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 24,
-    "question": "Hvad hedder Færøernes største by?",
-    "options": {
-      "A": "Reykjavik",
-      "B": "Nuuk",
-      "C": "Tórshavn"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2024-11_25",
     "exam": "indfoedsretsproeven-2024-11",
     "number": 25,
@@ -5445,42 +4712,6 @@
     "answer": "A"
   },
   {
-    "id": "indfoedsretsproeven-2024-11_27",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 27,
-    "question": "Hvilken religion var den mest udbredte i Danmark i middelalderen (cirka 1050-1500)?",
-    "options": {
-      "A": "Ortodoks kristendom",
-      "B": "Katolsk kristendom",
-      "C": "Protestantisk kristendom"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_28",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 28,
-    "question": "I hvilket af følgende århundreder fandt dansk slavehandel mellem Afrika og de danske kolonier i Caribien sted?",
-    "options": {
-      "A": "1100-tallet",
-      "B": "1400-tallet",
-      "C": "1700-tallet"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_29",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 29,
-    "question": "Hvem består Rådet for Den Europæiske Union af?",
-    "options": {
-      "A": "Politikere direkte valgt af EU's befolkninger",
-      "B": "Embedsmænd udpeget af EU-Kommissionen",
-      "C": "Ministre fra medlemsstaternes regeringer"
-    },
-    "answer": "C"
-  },
-  {
     "id": "indfoedsretsproeven-2024-11_30",
     "exam": "indfoedsretsproeven-2024-11",
     "number": 30,
@@ -5489,18 +4720,6 @@
       "A": "Danmark var allieret med USA gennem NATO",
       "B": "Danmark var neutralt",
       "C": "Danmark var allieret med Sovjetunionen gennem Warszawa-pagten"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_31",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 31,
-    "question": "Hvilken international organisation blev Danmark medlem af i 1945?",
-    "options": {
-      "A": "FN",
-      "B": "EF",
-      "C": "WTO"
     },
     "answer": "A"
   },
@@ -5527,29 +4746,6 @@
       "C": "Ophævelsen af DR’s monopol på at sende tv"
     },
     "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_34",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 34,
-    "question": "Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?",
-    "options": {
-      "A": "Det er steget",
-      "B": "Det er faldet"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2024-11_35",
-    "exam": "indfoedsretsproeven-2024-11",
-    "number": 35,
-    "question": "I hvilket årti blev Danmark ramt af en flerårig økonomisk krise, som blev udløst af store prisstigninger på olie?",
-    "options": {
-      "A": "1930'erne",
-      "B": "1950'erne",
-      "C": "1970'erne"
-    },
-    "answer": "C"
   },
   {
     "id": "indfoedsretsproeven-2024-11_36",
@@ -5664,537 +4860,6 @@
       "A": "Nr. 5",
       "B": "Nr. 15",
       "C": "Nr. 25"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_1",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 1,
-    "question": "Hvad blev vedtaget med grundlovsændringen i 1915?",
-    "options": {
-      "A": "At kvinder fik mulighed for at arve den danske trone",
-      "B": "At kvinder fik stemmeret til Folketinget",
-      "C": "At kvinder skulle aftjene værnepligt"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_2",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 2,
-    "question": "Hvad var den primære baggrund for den politiske aftale Kanslergadeforliget i 1933?",
-    "options": {
-      "A": "Økonomiske problemer",
-      "B": "Udenrigspolitiske problemer",
-      "C": "Miljøproblemer"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_3",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 3,
-    "question": "Hvornår gjorde en større gruppe af unge oprør mod samfundets traditionelle normer, så det blandt andet blev mere accepteret at få børn uden at være gift?",
-    "options": {
-      "A": "I slutningen af 1920'erne",
-      "B": "I slutningen af 1940'erne",
-      "C": "I slutningen af 1960'erne"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_4",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 4,
-    "question": "Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?",
-    "options": {
-      "A": "Grundloven",
-      "B": "Valgretsalderen",
-      "C": "Danmarks forhold til EU"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_5",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 5,
-    "question": "Hvilket af følgende partier er nyest?",
-    "options": {
-      "A": "Alternativet",
-      "B": "Socialistisk Folkeparti",
-      "C": "Enhedslisten"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_6",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 6,
-    "question": "Kan den samme person være statsminister i mere end to valgperioder?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_7",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 7,
-    "question": "Hvad er Susanne Bier (født 1960) særligt kendt for?",
-    "options": {
-      "A": "Hun er fysiker",
-      "B": "Hun er politiker",
-      "C": "Hun er filminstruktør"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_8",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 8,
-    "question": "Hvem har skrevet romanen Barndommens Gade fra 1943?",
-    "options": {
-      "A": "Herman Bang",
-      "B": "Tove Ditlevsen",
-      "C": "Naja Marie Aidt"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_9",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 9,
-    "question": "Hvornår levede filosoffen Søren Kierkegaard?",
-    "options": {
-      "A": "I 1700-tallet",
-      "B": "I 1800-tallet",
-      "C": "I 1900-tallet"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_10",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 10,
-    "question": "Hvad var Carl Nielsen (1865-1931) særligt kendt for?",
-    "options": {
-      "A": "Han var komponist",
-      "B": "Han var kunstmaler",
-      "C": "Han var arkitekt"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_11",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 11,
-    "question": "Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?",
-    "options": {
-      "A": "Italien",
-      "B": "Spanien",
-      "C": "Polen"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_12",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 12,
-    "question": "Hvad er der sket med folkepensionsalderen siden 2018?",
-    "options": {
-      "A": "Den er blevet højere",
-      "B": "Den er uændret",
-      "C": "Den er blevet lavere"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_13",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 13,
-    "question": "Er flertallet af lønmodtagerne i Danmark ansat i den offentlige sektor?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_14",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 14,
-    "question": "Hvor ligger flest danske konger og dronninger begravet?",
-    "options": {
-      "A": "Viborg Domkirke",
-      "B": "Roskilde Domkirke",
-      "C": "Ribe Domkirke"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_15",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 15,
-    "question": "I hvilken dansk by kan man blandt andet besøge Den Gamle By og kunstmuseet ARoS?",
-    "options": {
-      "A": "Helsingør",
-      "B": "Odense",
-      "C": "Aarhus"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_16",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 16,
-    "question": "Hvilken dansk ø er kendt for sin næsten 130 meter høje klint (skrænt ved kyst)?",
-    "options": {
-      "A": "Møn",
-      "B": "Læsø",
-      "C": "Als"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_17",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 17,
-    "question": "Hvilket land kommer dronning Mary oprindeligt fra?",
-    "options": {
-      "A": "Canada",
-      "B": "Storbritannien",
-      "C": "Australien"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_18",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 18,
-    "question": "Hvilket af følgende partier har aldrig været med i en regering?",
-    "options": {
-      "A": "Radikale Venstre",
-      "B": "Enhedslisten",
-      "C": "Socialistisk Folkeparti"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_19",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 19,
-    "question": "Hvilket parti tilhørte Poul Schlüter, som var statsminister i perioden 1982-93?",
-    "options": {
-      "A": "Socialdemokratiet",
-      "B": "Det Radikale Venstre",
-      "C": "Det Konservative Folkeparti"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_20",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 20,
-    "question": "Hvem har hovedansvaret for driften af sygehusene?",
-    "options": {
-      "A": "Staten",
-      "B": "Regionerne",
-      "C": "Kommunerne"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_21",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 21,
-    "question": "Hvilket af følgende partier har flest borgmestre?",
-    "options": {
-      "A": "Liberal Alliance",
-      "B": "Det Konservative Folkeparti",
-      "C": "Venstre"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_22",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 22,
-    "question": "Er Grønland og Færøerne en del af EU?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_23",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 23,
-    "question": "Hvilket symbol indgår i Færøernes flag?",
-    "options": {
-      "A": "En cirkel",
-      "B": "En stjerne",
-      "C": "Et kors"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_24",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 24,
-    "question": "Hvad hedder Grønlands største by?",
-    "options": {
-      "A": "Tasiilaq",
-      "B": "Ilulissat",
-      "C": "Nuuk"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_25",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 25,
-    "question": "Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_26",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 26,
-    "question": "Hvad blev Danmark medlem af i 1949?",
-    "options": {
-      "A": "WTO",
-      "B": "NATO",
-      "C": "EF"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_27",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 27,
-    "question": "Hvad hedder den organisation, der varetager samarbejdet mellem de nordiske landes parlamenter?",
-    "options": {
-      "A": "Nordisk Råd",
-      "B": "Nordtinget",
-      "C": "Den Nordiske Union"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_28",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 28,
-    "question": "Hvor har Margrethe Vestager arbejdet i perioden 2014-24?",
-    "options": {
-      "A": "FN",
-      "B": "NATO",
-      "C": "EU"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_29",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 29,
-    "question": "Hvornår fik kong Harald Blåtand skrevet på den ene af Jellingstenene, at han gjorde danerne (danskerne) kristne?",
-    "options": {
-      "A": "900-tallet",
-      "B": "1200-tallet",
-      "C": "1500-tallet"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_30",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 30,
-    "question": "Hvem fik mere magt med enevælden, der blev indført i Danmark 1660-61?",
-    "options": {
-      "A": "Adelen",
-      "B": "Kirken",
-      "C": "Kongen"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_31",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 31,
-    "question": "Hvad indebar reformationen i Danmark i 1536?",
-    "options": {
-      "A": "Indførelsen af en demokratisk grundlov",
-      "B": "Overgangen fra katolsk til protestantisk kristendom",
-      "C": "Ophævelse af kongens eneret på at handle med udlandet"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_32",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 32,
-    "question": "Hvad blev resultatet af Den 2. Slesvigske Krig i 1864?",
-    "options": {
-      "A": "Danmark erobrede Slesvig",
-      "B": "Danmark tabte Slesvig"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_33",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 33,
-    "question": "Hvor højt over havets overflade ligger Danmarks højeste naturlige punkt?",
-    "options": {
-      "A": "Cirka 170 meter",
-      "B": "Cirka 370 meter",
-      "C": "Cirka 570 meter"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_34",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 34,
-    "question": "Hvem har til opgave at kontrollere offentlige myndigheders sagsbehandling?",
-    "options": {
-      "A": "Folketingets Ombudsmand",
-      "B": "Etisk Råd",
-      "C": "Pressenævnet"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_35",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 35,
-    "question": "Hvor gammel skal man mindst være for at købe cigaretter i Danmark?",
-    "options": {
-      "A": "15 år",
-      "B": "16 år",
-      "C": "18 år"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_36",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 36,
-    "question": "Hvilken årsdag blev markeret den 5. maj 2025?",
-    "options": {
-      "A": "50-årsdagen for Danmarks indtræden i EF",
-      "B": "80-årsdagen for Danmarks befrielse efter 2. Verdenskrig",
-      "C": "100-årsdagen for Sønderjyllands genforening med Danmark"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_37",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 37,
-    "question": "Hvor var der valg til parlamentet i marts 2025?",
-    "options": {
-      "A": "Grønland",
-      "B": "Færøerne"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_38",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 38,
-    "question": "Hvad var Mette Frederiksen og en række andre europæiske stats- og regeringschefer til møde om i London i marts 2025?",
-    "options": {
-      "A": "Klimaforandringer",
-      "B": "Situationen i Ukraine",
-      "C": "Grænseoverskridende kriminalitet"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_39",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 39,
-    "question": "Hvilken fødselsdag fejrede prinsesse Isabella i april 2025?",
-    "options": {
-      "A": "18 år",
-      "B": "20 år",
-      "C": "25 år"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_40",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 40,
-    "question": "Hvem blev i marts 2025 valgt til verdens bedste mandlige håndboldspiller (2024 IHF Male World Player of the Year)?",
-    "options": {
-      "A": "Magnus Saugstrup",
-      "B": "Emil Jakobsen",
-      "C": "Mathias Gidsel"
-    },
-    "answer": "C"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_41",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 41,
-    "question": "Kan man blive straffet med fængsel for at hjælpe fremmede staters efterretningstjenester med at virke i Danmark?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_42",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 42,
-    "question": "Kan kvinder være biskopper i den danske folkekirke?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_43",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 43,
-    "question": "Hvad er den seksuelle lavalder i Danmark?",
-    "options": {
-      "A": "13 år",
-      "B": "15 år",
-      "C": "18 år"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_44",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 44,
-    "question": "Er det lovligt at lade sit barn under 18 år blive religiøst viet?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer": "B"
-  },
-  {
-    "id": "indfoedsretsproeven-2025-05_45",
-    "exam": "indfoedsretsproeven-2025-05",
-    "number": 45,
-    "question": "Hvilken placering indtager Danmark ud af 180 lande, når det gælder den højeste grad af pressefrihed ifølge Reporters Without Borders (2024 World Press Freedom Index)?",
-    "options": {
-      "A": "2",
-      "B": "26",
-      "C": "51"
     },
     "answer": "A"
   }
