@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statsborgerskab Quiz</title>
+    <link rel="stylesheet" href="quiz-styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Category Selection Screen -->
+        <div id="categoryScreen" class="screen active">
+            <div class="container">
+                <h1>Statsborgerskab Quiz</h1>
+                <p class="intro-text">Vælg hvilke kategorier du vil blive testet i:</p>
+                
+                <div class="category-list">
+                    <label class="category-item">
+                        <input type="checkbox" name="category" value="Legal" checked>
+                        <span class="checkbox-custom"></span>
+                        <span class="category-name">Legal</span>
+                        <span class="category-count" data-category="Legal">0</span>
+                    </label>
+                    <label class="category-item">
+                        <input type="checkbox" name="category" value="Historical" checked>
+                        <span class="checkbox-custom"></span>
+                        <span class="category-name">Historical</span>
+                        <span class="category-count" data-category="Historical">0</span>
+                    </label>
+                    <label class="category-item">
+                        <input type="checkbox" name="category" value="Current" checked>
+                        <span class="checkbox-custom"></span>
+                        <span class="category-name">Current</span>
+                        <span class="category-count" data-category="Current">0</span>
+                    </label>
+                    <label class="category-item">
+                        <input type="checkbox" name="category" value="Political">
+                        <span class="checkbox-custom"></span>
+                        <span class="category-name">Political</span>
+                        <span class="category-count" data-category="Political">0</span>
+                    </label>
+                    <label class="category-item">
+                        <input type="checkbox" name="category" value="Cultural">
+                        <span class="checkbox-custom"></span>
+                        <span class="category-name">Cultural</span>
+                        <span class="category-count" data-category="Cultural">0</span>
+                    </label>
+                    <label class="category-item">
+                        <input type="checkbox" name="category" value="Sports">
+                        <span class="checkbox-custom"></span>
+                        <span class="category-name">Sports</span>
+                        <span class="category-count" data-category="Sports">0</span>
+                    </label>
+                </div>
+
+                <div class="total-questions">
+                    Total spørgsmål: <strong id="totalCount">0</strong>
+                </div>
+
+                <button id="startBtn" class="btn btn-primary" disabled>Start Quiz</button>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quizScreen" class="screen">
+            <div class="container">
+                <div class="quiz-header">
+                    <div class="progress-info">
+                        <div class="progress-bar">
+                            <div id="progressFill" class="progress-fill"></div>
+                        </div>
+                        <div class="progress-text">
+                            Spørgsmål <span id="currentQuestion">0</span> af <span id="totalQuestions">0</span>
+                        </div>
+                    </div>
+                    <div class="score-info">
+                        <div class="score-item">
+                            <span class="score-label">Korrekte:</span>
+                            <span id="correctCount" class="score-value correct">0</span>
+                        </div>
+                        <div class="score-item">
+                            <span class="score-label">Forkerte:</span>
+                            <span id="wrongCount" class="score-value wrong">0</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="question-container">
+                    <h2 id="questionText" class="question"></h2>
+                    <div id="optionsContainer" class="options"></div>
+                </div>
+
+                <div id="feedbackContainer" class="feedback-container" style="display: none;">
+                    <div id="feedbackContent" class="feedback-content"></div>
+                    <button id="nextBtn" class="btn btn-primary">Næste spørgsmål</button>
+                </div>
+
+                <button id="exitBtn" class="btn btn-secondary">Afslut</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="screen">
+            <div class="container">
+                <h1>Quiz Afsluttet</h1>
+                
+                <div class="results-card">
+                    <div class="final-score">
+                        <div class="score-circle">
+                            <div class="score-percentage">
+                                <span id="finalPercentage">0</span>%
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="results-details">
+                        <div class="result-item">
+                            <span class="result-label">Korrekte svar:</span>
+                            <span id="finalCorrect" class="result-value correct">0</span>
+                        </div>
+                        <div class="result-item">
+                            <span class="result-label">Forkerte svar:</span>
+                            <span id="finalWrong" class="result-value wrong">0</span>
+                        </div>
+                        <div class="result-item">
+                            <span class="result-label">I alt:</span>
+                            <span id="finalTotal" class="result-value">0</span>
+                        </div>
+                    </div>
+                </div>
+
+                <button id="restartBtn" class="btn btn-primary">Start igen</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="quiz-loader.js"></script>
+    <script src="quiz.js"></script>
+</body>
+</html>
